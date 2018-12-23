@@ -1,0 +1,37 @@
+﻿body {
+   
+}
+.leftMenu {
+    width: 200px;
+    height: 850px;
+    background-color: #fff;
+    position: fixed;
+    left: 10px;
+    top:100px;
+    overflow:scroll;
+}
+.menuLi {
+    list-style: none;
+    text-align: left;
+    position: relative;
+    margin-bottom:5px;
+}
+
+.menuLiA {
+    font-size:12px;
+    cursor: pointer;
+    padding-left: 10px;
+    color: #000;
+    text-decoration: none;
+}
+.leftMenu::-webkit-scrollbar {
+    /*display: none;*/
+}
+
+.swagger-section .swagger-ui-wrap {
+    line-height: 1;
+    font-family: Droid Sans,sans-serif;
+
+    margin-left: 250px;
+    margin-right: auto;
+}
