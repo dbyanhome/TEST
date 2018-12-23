@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TEST.Application</name>
+    </assembly>
+    <members>
+      <member name="T:AbpProject.Application.DTO.MoveReqDTO">
+        <summary>
+          调拨申请DTO
+        </summary>
+      </member>      
+      <member name="T:AbpProject.Application.TestAppService.TestApplicationService">
+        <summary>
+          测试服务类
+        </summary>
+      </member>
+      <member name="T:AbpProject.Application.TestAppService.MoveReqApplicationService">
+        <summary>
+          调拨服务类
+        </summary>
+      </member>
+      <member name="M:AbpProject.Application.TestAppService.TestApplicationService.GetTestString()">
+        <summary>
+          测试GetString方法
+        </summary>
+        <returns></returns>
+      </member>
+
+      
+      
+    </members>
+</doc>
