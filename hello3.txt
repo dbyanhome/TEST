@@ -1,3 +1,7 @@
 update 123456789
 insert 123
+insert 456
+insert 789
+delete 123
+delete 456
 
